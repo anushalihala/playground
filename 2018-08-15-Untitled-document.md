@@ -70,3 +70,5 @@ Highlight
 
 Some additions
 
+![image alt text]({{ site.url }}/public/lDCtZRTjt0u1uPm49HNZgA_img_1.jpg)
+
