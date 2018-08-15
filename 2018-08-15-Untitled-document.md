@@ -68,3 +68,5 @@ Highlight
 
 ![image alt text]({{ site.url }}/public/lDCtZRTjt0u1uPm49HNZgA_img_0.jpg)
 
+Some additions
+
