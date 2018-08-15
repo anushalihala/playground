@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: test markdown
 layout: post
 author: anusha.lihala
 permalink: /untitled-document/
@@ -70,5 +70,13 @@ Highlight
 
 Some additions
 
-![image alt text](https://i.pinimg.com/originals/12/64/da/1264da4a3f18207dc22592102abae40d.jpg)
+![image alt text]({{ site.url }}/public/lDCtZRTjt0u1uPm49HNZgA_img_1.jpg)
+
+```
+
+#is this code
+
+```
+
+# Is this a heading
 
